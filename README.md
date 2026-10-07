@@ -1,4 +1,7 @@
 # Elitiscraper
+
+> **Archived.** This scraper is superseded by [codeoflaw](https://github.com/kevanwee/codeoflaw), which scrapes the same eLitigation judgments with rate limiting, retries, year and page limits, and analysis charts.
+
 ## Overview
 Singapore's eLitigation provides all written judgments issued by the Supreme Court of Singapore since 2000. This scraper pulls information from all cases found within 
 
